@@ -1,0 +1,212 @@
+*{
+    margin: 0%;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    background-color: #eb9123;
+    display: inline-block;
+    color: white;
+}
+.animation{
+    color: #c70c98;
+    font-size:2rem;
+    margin-top: 10px;
+    margin-left: 35px;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+
+.main { 
+    justify-content: space-evenly;
+    text-align: end;
+    margin-top: 5px;
+}
+.main a{
+    font-size: 1.5rem;
+    color: white;
+    margin-right: 10px;
+    margin-left: 35px;
+    text-decoration: none;
+}
+/* .hero-section */
+
+.hero-section{
+    background-image: url(hero-section.jpg);
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    color: white;
+}
+.text{
+    font-size: 5.25rem;
+    margin-left: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 35px;
+}
+.text2{
+    font-size: 2.5rem;
+    margin-left: 30px;
+    font-weight: 600;
+    text-align: start;
+    color: white;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/* shop-section */
+.shop-section{
+    height: 850px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box{
+    margin-top: 10px;
+    height: 365px;
+    width: 255px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+.box1{
+    background-image: url(sh1.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.box2{
+    background-image: url(sh2.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.box3{
+    background-image: url(sh3.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.box4{
+    background-image: url(sh4.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.box5{
+    background-image: url(sh5.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.box6{
+    background-image: url(sh6.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.box7{
+    background-image: url(sh7.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.box8{
+    background-image: url(sh8.webp);
+    background-size: cover;
+    height: 365px;
+    width: 255px;
+}
+.logo-section{
+    border-top: 0.2px solid gray;
+    height: 150px;
+    width: 100%;
+    background-color: #c70c98;
+    background-image: url(flat-deals.webp);
+    background-size: cover;
+}
+.logo2-section{
+    margin-top: 5px;
+    border-radius: 2px;
+    height: 400px;
+    width: 100%;
+    background-image: url(content.webp);
+    background-size: cover;
+}
+.text4 h2{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 28px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text4 p{
+
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 30;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text4 button{
+    height: 65px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 650px;
+    margin-top: 28px;
+    font-size: 1.5rem;
+    font-weight: 100px;
+}
+.text3{
+    height: 65px;
+    width: 100%;
+    background-color: red;
+}
+.text4{
+    height: 220px;
+    width: 100%;
+    background-color: white;
+   }
+   .text5{
+    height: 65px;
+    width: 100%;
+    background-color: red;
+   }
+   .pannel{
+    height: 450px;
+    width: 100%;
+    background-color: black;
+    justify-content: space-evenly;
+    display: flex;
+    font-size: 14px;
+   }
+   .data{
+    margin-top: 25px;
+   }
+   .data a{
+    color: white;
+    display: block;
+    margin: 15px;
+    font-size: 14px;
+    margin-top: 15px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+   }
+   .data p{
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+   }
+   
